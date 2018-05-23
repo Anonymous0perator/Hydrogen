@@ -1,0 +1,328 @@
+No.	1
+Title	Life & Death (Beginner and Elementary Go Books)
+Author	James Davies
+ISBN	4906574130
+ISBN 13	9784906574131
+Publisher	Kiseido Publishing Co
+
+No.	2
+Title	Tesuji
+Author	James Davies
+ISBN	4906574122
+ISBN 13	9784906574124
+Publisher	Kiseido Publishing Co
+
+No.	3
+Title	The Endgame
+Author	Tomoko Ogawa,
+ISBN	4871870154
+ISBN 13	9784871870153
+Publisher	Ishi Pr
+
+No.	4
+Title	802. 11 wireless networks
+Author	Matthew S. Gast
+ISBN	0596100523
+ISBN 13	9780596100520
+Publisher	Beijing ; O’Reilly, 2005.
+
+No.	5
+Title	Java examples in a nutshell
+Author	David Flanagan
+ISBN	0596006209
+ISBN 13	9780596006204
+Publisher	Sebastopol, CA : O’Reilly, c2004.
+
+No.	6
+Title	3G wireless networks
+Author	Clint Smith, Daniel Collins
+ISBN	007226344X
+ISBN 13	9780072263442
+Publisher	New York : McGraw-Hill, c2007.
+
+No.	7
+Title	Visual Basic 6 complete
+Author	
+ISBN	0782124690
+ISBN 13	9780782124699
+Publisher	San Francisco : Sybex, c1999.
+
+No.	8
+Title	Gateway To Chinese Culture
+Author	Fu Chunjiang,
+ISBN	9812293280
+ISBN 13	9789812293282
+Publisher	Asiapac
+
+No.	9
+Title	Making Friends
+Author	Andrew Matthews,
+ISBN	981001953X
+ISBN 13	9789810019532
+Publisher	Media Masters
+
+No.	10
+Title	Starting an online business for dummies(r), 5th Edition
+Author	Greg Holden
+ISBN	0470107391
+ISBN 13	9780470107393
+Publisher	Indianapolis, IN : Wiley Pub., 2007.
+
+No.	11
+Title	How to Do Everything with Your Digital Camera, Fourth Edition
+Author	Dave Johnson,
+ISBN	0072261633
+ISBN 13	9780072261639
+Publisher	McGraw-Hill Osborne Media
+
+No.	12
+Title	Jamsa’s C/C++/C# programmer’s bible
+Author	Kris Jamsa
+ISBN	0766846822
+ISBN 13	9780766846821
+Publisher	[Las Vegas, NV] : Onword Press, c2002.
+
+No.	13
+Title	Computer graphics using OpenGL
+Author	F. S. Hill, Jr
+ISBN	0133203263
+ISBN 13	9780133203264
+Publisher	Upper Saddle River, London : Prentice Hall, c2001.
+
+No.	14
+Title	Korean for dummies
+Author	
+ISBN	0470037180
+ISBN 13	9780470037188
+Publisher	Hungry Minds, 2007.
+
+No.	15
+Title	Processing XML with Java
+Author	Elliotte Rusty Harold
+ISBN	0201771861
+ISBN 13	9780201771862
+Publisher	Boston : Addison-Wesley, c2003.
+
+No.	16
+Title	Emotional intelligence
+Author	Daniel Goleman
+ISBN	0747528306
+ISBN 13	9780747528302
+Publisher	London : Bloomsbury, 1996.
+
+No.	17
+Title	Speak Chinese today: A Basic Course in the Modern Language
+Author	Beverly Hong, Zhu Bingyao,
+ISBN	0804817154
+ISBN 13	9780804817158
+Publisher	Tuttle Publishing
+
+No.	18
+Title	God Created the Integers
+Author	Stephen W. Hawking (Editor)
+ISBN	0762430044
+ISBN 13	9780762430048
+Publisher	Running Press Book Publishers
+
+No.	19
+Title	Life & Games of Mikhail Tal
+Author	Mikhail Tal
+ISBN	1857442024
+ISBN 13	9781857442021
+Publisher	Everyman Publishers
+
+No.	20
+Title	All about stocks
+Author	Esmé Faerber
+ISBN	0071345086
+ISBN 13	9780071345088
+Publisher	New York : McGraw-Hill, c2000.
+
+No.	21
+Title	CCNA self-study exam certification guide
+Author	Wendell Odom
+ISBN	1587200945
+ISBN 13	9781587200946
+Publisher	Indianapolis, Ind. : Cisco, [2006].
+
+No.	22
+Title	CCNA self-study exam certification guide
+Author	Wendell Odom
+ISBN	158720083X
+ISBN 13	9781587200830
+Publisher	Indianapolis, Ind. : Cisco, [2006].
+
+No.	23
+Title	Berlitz Mandarin Chinese Compact Dictionary: Chinese – English / English – Chinese
+Author	Berlitz Publishing (Editor)
+ISBN	9812469478
+ISBN 13	9789812469472
+Publisher	Berlitz Guides
+
+No.	24
+Title	Art of War
+Author	Sun Tzu,
+ISBN	1864761687
+ISBN 13	9781864761689
+Publisher	Grange Books
+
+No.	25
+Title	Elementary Chinese Readers
+Author	Beijing Language Institute,
+ISBN	7800521354
+ISBN 13	9787800521355
+Publisher	Sinolingua
+
+No.	26
+Title	Office 2003 XML for Power Users
+Author	Matthew MacDonald
+ISBN	1590592646
+ISBN 13	9781590592649
+Publisher	APress
+
+No.	27
+Title	FUZZY LOGIC
+Author	Daniel Mcneill,
+ISBN	0671875353
+ISBN 13	9780671875350
+Publisher	Simon & Schuster
+
+No.	28
+Title	The code book
+Author	Simon Singh
+ISBN	0385495323
+ISBN 13	9780385495325
+Publisher	New York : Anchor Books, 2000, c1999.
+
+No.	29
+Title	Perl, CGI, and JavaScript complete
+Author	
+ISBN	0782127800
+ISBN 13	9780782127805
+Publisher	Alameda, CA : Sybex Inc., 2000.
+
+No.	30
+Title	XML complete
+Author	[editors, Pat Coleman… et al.]
+ISBN	0782140335
+ISBN 13	9780782140330
+Publisher	San Francisco, CA : Sybex, 2001.
+
+No.	31
+Title	Dictionary of Basic Tesuji: Volume 1
+Author	Fujisawa Shuko 9 Dan,
+ISBN	1932001190
+ISBN 13	9781932001198
+Publisher	Slate & Shell
+
+No.	32
+Title	Dictionary of Basic Tesuji Voume II
+Author	Fujisawa Shuko 9 Dan,
+ISBN	1932001239
+ISBN 13	9781932001235
+Publisher	Slate & Shell
+
+No.	33
+Title	Dictionary of Basic Tesuji, Volume 3
+Author	Fujisawa Shuko 9 Dan,
+ISBN	1932001255
+ISBN 13	9781932001259
+Publisher	Slate & Shell
+
+No.	34
+Title	The 3-3 Point, Modern Opening Strategy
+Author	Cho Chikun, Nine-Dan Cho Chikun, Stuart Dowsey (Translator)
+ISBN	4871870448
+ISBN 13	9784871870443
+Publisher	Ishi Press International
+
+No.	35
+Title	Internet and World Wide Web How to Program
+Author	Paul Deitel, Andrew Goldberg,
+ISBN	0131246828
+ISBN 13	9780131246829
+Publisher	Prentice Hall
+
+No.	36
+Title	Lee Changho’s Novel Plays & Shapes v.1
+Author	Craig Hutchinson, Sidney W.K. Yuan, Lee Changho (Editor), Lee Changho (Translator)
+ISBN	1889554529
+ISBN 13	9781889554525
+Publisher	Yutopian Enterprises
+
+No.	37
+Title	Java programming for dummies
+Author	by Donald J. Koosis and David Koosis
+ISBN	076450388X
+ISBN 13	9780764503887
+Publisher	Foster City, CA : IDG Books Worldwide, c1998.
+
+No.	38
+Title	French for dummies
+Author	by Dodi-Katrin Schmidt, Michelle M. Williams, Dominique Wenzel; Berlitz series editor, Juergen Lorenz
+ISBN	0764551930
+ISBN 13	9780764551932
+Publisher	Foster City, CA : IDG Books Worldwide, c2000.
+
+No.	39
+Title	Astronomy for dummies
+Author	by Stephen P. Maran
+ISBN	0764551558
+ISBN 13	9780764551550
+Publisher	Foster City, CA : IDG Books Worldwide, c1999.
+
+No.	40
+Title	JavaScript annotated archives
+Author	Jeff Frentzen and Henry Sobotka with additional material from Dewayne McNair
+ISBN	0078823641
+ISBN 13	9780078823640
+Publisher	Berkeley, Calif. : Osborne/McGraw Hill, c1998.
+
+No.	41
+Title	Sams teach yourself Java 2 in 21 days
+Author	Laura Lemay, Rogers Cadenhead
+ISBN	0672316382
+ISBN 13	9780672316388
+Publisher	Indianapolis, Ind. : Sams Publishing, c1999.
+
+No.	42
+Title	Excel 2007 Power Programming With VBA
+Author	John Walkenbach,
+ISBN	0470044012
+ISBN 13	9780470044018
+Publisher	John Wiley & Sons
+
+No.	43
+Title	AI Application Programming
+Author	M. Tim Jones
+ISBN	1584502789
+ISBN 13	9781584502784
+Publisher	Charles River Media
+
+No.	44
+Title	The Forensic Casebook : The Science of Crime Scene Investigation
+Author	NGAIRE E. GENGE
+ISBN	0345452038
+ISBN 13	9780345452030
+Publisher	Ballantine Books
+
+No.	45
+Title	Sams Teach Yourself Microsoft Publisher 98 in 24 Hours
+Author	Ned Snell,
+ISBN	0672313049
+ISBN 13	9780672313042
+Publisher	Sams
+
+No.	46
+Title	Perl
+Author	[authors, Paul Whitehead, Eric Kramer]
+ISBN	0764534785
+ISBN 13	9780764534782
+Publisher	Foster City, Calif. : IDG, 2000.
+
+No.	47
+Title	Professional Linux Kernel Architecture
+Author	Wolfgang Mauerer,
+ISBN	0470343435
+ISBN 13	9780470343432
+Publisher	Wrox
