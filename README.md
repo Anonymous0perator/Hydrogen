@@ -6,7 +6,7 @@ Hydrogen: Hydrogen is a book search engine, It is accurate than other book sea
 Introduction: Hydrogen is more than book search engine, It is part of your life. A way to make your life simpler. Connection between old technology and new.
 Languages:  JavaScript, MySQL, HTML, CSS, (ElectronJS) JavaScript: The main system.
 MySQL: DataBase for username and password, books and etc HTML: Basic design for the application. CSS: Advanced design for application. 
-Engineers: Joey Heo: Developer, CEO, Programmar Justin Hwang: Developer, CO-CEO, Manager 
+Engineers: Joey Heo: Developer, CEO, Programmar Justin Hwang: Developer, CO-CEO, Manager. Eric Ku: Developer, CO-CEO, Programmar
 Information: This project is all about making a better search engine for library and book store. Engineers are responsible for the software and updates, If you find any glitches or bugs, Please message us in discord or either email.  There are going to be two choices if you purchase this software, Choice 1: Book Store | Choice 2: Library. 
 There will be a set up section. You will have to put name for your store, Location, Type (How big is the store or either library). 
 Tutorial, The system will tell you how to register a book. 
